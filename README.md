@@ -1,5 +1,6 @@
-# E-commerce API
+# E-commerce API Using FastEndpoints
 
+![E-commerce API](https://repository-images.githubusercontent.com/407023726/46f843f5-afe9-4452-9ad8-e4a9c1d11039)
 A comprehensive e-commerce API built with ASP.NET Core, FastEndpoints, Entity Framework Core, and SQL Server.
 
 ## Features
