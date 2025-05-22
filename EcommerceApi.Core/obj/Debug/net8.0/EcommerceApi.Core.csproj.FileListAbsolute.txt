@@ -1,0 +1,11 @@
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\bin\Debug\net8.0\EcommerceApi.Core.deps.json
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\bin\Debug\net8.0\EcommerceApi.Core.dll
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\bin\Debug\net8.0\EcommerceApi.Core.pdb
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\obj\Debug\net8.0\EcommerceApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\obj\Debug\net8.0\EcommerceApi.Core.AssemblyInfoInputs.cache
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\obj\Debug\net8.0\EcommerceApi.Core.AssemblyInfo.cs
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\obj\Debug\net8.0\EcommerceApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\obj\Debug\net8.0\EcommerceApi.Core.dll
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\obj\Debug\net8.0\refint\EcommerceApi.Core.dll
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\obj\Debug\net8.0\EcommerceApi.Core.pdb
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Core\obj\Debug\net8.0\ref\EcommerceApi.Core.dll

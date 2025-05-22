@@ -1,0 +1,17 @@
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\bin\Debug\net8.0\EcommerceApi.Infrastructure.deps.json
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\bin\Debug\net8.0\EcommerceApi.Infrastructure.runtimeconfig.json
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\bin\Debug\net8.0\EcommerceApi.Infrastructure.dll
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\bin\Debug\net8.0\EcommerceApi.Infrastructure.pdb
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\bin\Debug\net8.0\EcommerceApi.Core.dll
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\bin\Debug\net8.0\EcommerceApi.Core.pdb
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\EcommerceApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\EcommerceApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\EcommerceApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\EcommerceApi.Infrastructure.AssemblyInfo.cs
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\EcommerceApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\Ecommerc.3811BF4D.Up2Date
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\EcommerceApi.Infrastructure.dll
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\refint\EcommerceApi.Infrastructure.dll
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\EcommerceApi.Infrastructure.pdb
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\EcommerceApi.Infrastructure.genruntimeconfig.cache
+C:\Users\vaival\Desktop\ECommerce-FastEndpoints\EcommerceApi.Infrastructure\obj\Debug\net8.0\ref\EcommerceApi.Infrastructure.dll

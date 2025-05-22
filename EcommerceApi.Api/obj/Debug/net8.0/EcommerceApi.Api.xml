@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EcommerceApi.Api</name>
+    </assembly>
+    <members>
+        <member name="T:EcommerceApi.Api.Documentation.SwaggerDocumentation">
+            <summary>
+            This class contains documentation for the Swagger UI.
+            </summary>
+        </member>
+        <member name="T:EcommerceApi.Api.Documentation.SwaggerDocumentation.Examples">
+            <summary>
+            Provides examples of common API responses.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Examples.Success">
+            <summary>
+            Example of a successful response.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Examples.BadRequest">
+            <summary>
+            Example of a bad request response.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Examples.Unauthorized">
+            <summary>
+            Example of an unauthorized response.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Examples.Forbidden">
+            <summary>
+            Example of a forbidden response.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Examples.NotFound">
+            <summary>
+            Example of a not found response.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Examples.ServerError">
+            <summary>
+            Example of a server error response.
+            </summary>
+        </member>
+        <member name="T:EcommerceApi.Api.Documentation.SwaggerDocumentation.Parameters">
+            <summary>
+            Provides documentation for common API parameters.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Parameters.Id">
+            <summary>
+            Documentation for the ID parameter.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Parameters.Pagination">
+            <summary>
+            Documentation for pagination parameters.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Parameters.Sorting">
+            <summary>
+            Documentation for sorting parameters.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Parameters.Filtering">
+            <summary>
+            Documentation for filtering parameters.
+            </summary>
+        </member>
+        <member name="T:EcommerceApi.Api.Documentation.SwaggerDocumentation.Authentication">
+            <summary>
+            Provides documentation for authentication.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Authentication.Jwt">
+            <summary>
+            Documentation for JWT authentication.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Authentication.Admin">
+            <summary>
+            Documentation for admin authentication.
+            </summary>
+        </member>
+        <member name="F:EcommerceApi.Api.Documentation.SwaggerDocumentation.Authentication.Customer">
+            <summary>
+            Documentation for customer authentication.
+            </summary>
+        </member>
+    </members>
+</doc>
